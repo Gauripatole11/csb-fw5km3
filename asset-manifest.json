@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "https://gauripatole11.github.io/csb-fw5km3/static/css/main.9b1431d8.chunk.css",
-    "main.js": "https://gauripatole11.github.io/csb-fw5km3/static/js/main.8542aeb4.chunk.js",
-    "main.js.map": "https://gauripatole11.github.io/csb-fw5km3/static/js/main.8542aeb4.chunk.js.map",
+    "main.js": "https://gauripatole11.github.io/csb-fw5km3/static/js/main.e948036c.chunk.js",
+    "main.js.map": "https://gauripatole11.github.io/csb-fw5km3/static/js/main.e948036c.chunk.js.map",
     "runtime-main.js": "https://gauripatole11.github.io/csb-fw5km3/static/js/runtime-main.c8db2cb1.js",
     "runtime-main.js.map": "https://gauripatole11.github.io/csb-fw5km3/static/js/runtime-main.c8db2cb1.js.map",
     "static/css/2.bb24780d.chunk.css": "https://gauripatole11.github.io/csb-fw5km3/static/css/2.bb24780d.chunk.css",
-    "static/js/2.ec095f5a.chunk.js": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.ec095f5a.chunk.js",
-    "static/js/2.ec095f5a.chunk.js.map": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.ec095f5a.chunk.js.map",
+    "static/js/2.48841a31.chunk.js": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.48841a31.chunk.js",
+    "static/js/2.48841a31.chunk.js.map": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.48841a31.chunk.js.map",
     "index.html": "https://gauripatole11.github.io/csb-fw5km3/index.html",
-    "precache-manifest.588db06a91d381c14eb3da50a52945b8.js": "https://gauripatole11.github.io/csb-fw5km3/precache-manifest.588db06a91d381c14eb3da50a52945b8.js",
+    "precache-manifest.bc643ef6b40edfaca93711d85277fb5f.js": "https://gauripatole11.github.io/csb-fw5km3/precache-manifest.bc643ef6b40edfaca93711d85277fb5f.js",
     "service-worker.js": "https://gauripatole11.github.io/csb-fw5km3/service-worker.js",
     "static/css/2.bb24780d.chunk.css.map": "https://gauripatole11.github.io/csb-fw5km3/static/css/2.bb24780d.chunk.css.map",
     "static/css/main.9b1431d8.chunk.css.map": "https://gauripatole11.github.io/csb-fw5km3/static/css/main.9b1431d8.chunk.css.map",
-    "static/js/2.ec095f5a.chunk.js.LICENSE.txt": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.ec095f5a.chunk.js.LICENSE.txt"
+    "static/js/2.48841a31.chunk.js.LICENSE.txt": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.48841a31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c8db2cb1.js",
     "static/css/2.bb24780d.chunk.css",
-    "static/js/2.ec095f5a.chunk.js",
+    "static/js/2.48841a31.chunk.js",
     "static/css/main.9b1431d8.chunk.css",
-    "static/js/main.8542aeb4.chunk.js"
+    "static/js/main.e948036c.chunk.js"
   ]
 }
