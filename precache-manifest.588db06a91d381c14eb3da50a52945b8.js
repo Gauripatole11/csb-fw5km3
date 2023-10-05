@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f36726bf86e25e7110081cf49ec74196",
+    "revision": "c8e01785733a9d126c876788c947dd26",
     "url": "https://gauripatole11.github.io/csb-fw5km3/index.html"
   },
   {
-    "revision": "27c5cf0cca5e84fd5934",
+    "revision": "ea9d169e9e683083fa9c",
     "url": "https://gauripatole11.github.io/csb-fw5km3/static/css/2.bb24780d.chunk.css"
   },
   {
-    "revision": "9c531d88bf8b2a9fd772",
+    "revision": "f375aa4f49c9c07fa5a8",
     "url": "https://gauripatole11.github.io/csb-fw5km3/static/css/main.9b1431d8.chunk.css"
   },
   {
-    "revision": "27c5cf0cca5e84fd5934",
-    "url": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.49208cc2.chunk.js"
+    "revision": "ea9d169e9e683083fa9c",
+    "url": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.ec095f5a.chunk.js"
   },
   {
     "revision": "847c3d0a59616cf5ab5705d4dde8665f",
-    "url": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.49208cc2.chunk.js.LICENSE.txt"
+    "url": "https://gauripatole11.github.io/csb-fw5km3/static/js/2.ec095f5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c531d88bf8b2a9fd772",
-    "url": "https://gauripatole11.github.io/csb-fw5km3/static/js/main.cdc14840.chunk.js"
+    "revision": "f375aa4f49c9c07fa5a8",
+    "url": "https://gauripatole11.github.io/csb-fw5km3/static/js/main.8542aeb4.chunk.js"
   },
   {
     "revision": "e6d8563d60d5b38cf10c",
